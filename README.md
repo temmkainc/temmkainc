@@ -1,6 +1,6 @@
 ## Hi, I'm Artem
 
-I’m an 20-year-old 3rd year **Computer Science student** at the University of Łódź, specializing in **Game Development** and **Software Engineering**.
+I’m a 20-year-old **Computer Science graduate** at the University of Łódź, specializing in **Game Development** and **Software Engineering**.
 
 With hands-on experience publishing indie games on **mobile and PC**, I’ve reached over **20,000 downloads** on Google Play and am always excited to take on new challenges.
 
